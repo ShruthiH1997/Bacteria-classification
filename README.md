@@ -1,1 +1,2 @@
-# Bacteria-classification
+# Bacteria Classification 
+using EfficientNet.
